@@ -1,0 +1,337 @@
+                   ID                                                                    Description GeneRatio   BgRatio
+GO:0010975 GO:0010975                                    regulation of neuron projection development    13/158 446/18903
+GO:0060560 GO:0060560                                 developmental growth involved in morphogenesis     9/158 233/18903
+GO:0050773 GO:0050773                                             regulation of dendrite development     6/158 103/18903
+GO:0051494 GO:0051494                               negative regulation of cytoskeleton organization     7/158 165/18903
+GO:1901215 GO:1901215                                            negative regulation of neuron death     8/158 218/18903
+GO:0030517 GO:0030517                                          negative regulation of axon extension     4/158  45/18903
+GO:0030574 GO:0030574                                                     collagen catabolic process     4/158  45/18903
+GO:1990138 GO:1990138                                                    neuron projection extension     7/158 172/18903
+GO:0016358 GO:0016358                                                           dendrite development     8/158 237/18903
+GO:0010721 GO:0010721                                        negative regulation of cell development     7/158 188/18903
+GO:0051492 GO:0051492                                            regulation of stress fiber assembly     5/158  94/18903
+GO:0048813 GO:0048813                                                         dendrite morphogenesis     6/158 140/18903
+GO:0062009 GO:0062009                                                   secondary palate development     3/158  26/18903
+GO:0048843 GO:0048843                negative regulation of axon extension involved in axon guidance     3/158  27/18903
+GO:1902903 GO:1902903                                regulation of supramolecular fiber organization    10/158 384/18903
+GO:1901214 GO:1901214                                                     regulation of neuron death     9/158 325/18903
+GO:0110020 GO:0110020                                regulation of actomyosin structure organization     5/158 104/18903
+GO:0043524 GO:0043524                                negative regulation of neuron apoptotic process     6/158 154/18903
+GO:0050770 GO:0050770                                                     regulation of axonogenesis     6/158 156/18903
+GO:0032963 GO:0032963                                                     collagen metabolic process     5/158 107/18903
+GO:0060562 GO:0060562                                                  epithelial tube morphogenesis     9/158 335/18903
+GO:0032231 GO:0032231                                   regulation of actin filament bundle assembly     5/158 108/18903
+GO:0050771 GO:0050771                                            negative regulation of axonogenesis     4/158  65/18903
+GO:0140058 GO:0140058                                                 neuron projection arborization     3/158  31/18903
+GO:0030038 GO:0030038                                     contractile actin filament bundle assembly     5/158 109/18903
+GO:0043149 GO:0043149                                                          stress fiber assembly     5/158 109/18903
+GO:0048814 GO:0048814                                           regulation of dendrite morphogenesis     4/158  66/18903
+GO:0051017 GO:0051017                                                 actin filament bundle assembly     6/158 160/18903
+GO:0043523 GO:0043523                                         regulation of neuron apoptotic process     7/158 218/18903
+GO:0042987 GO:0042987                                    amyloid precursor protein catabolic process     4/158  68/18903
+GO:0061572 GO:0061572                                             actin filament bundle organization     6/158 164/18903
+GO:0048841 GO:0048841                         regulation of axon extension involved in axon guidance     3/158  33/18903
+GO:0051497 GO:0051497                                   negative regulation of stress fiber assembly     3/158  33/18903
+GO:0050922 GO:0050922                                              negative regulation of chemotaxis     4/158  69/18903
+GO:0048640 GO:0048640                                    negative regulation of developmental growth     5/158 115/18903
+GO:0016049 GO:0016049                                                                    cell growth    11/158 493/18903
+GO:0007168 GO:0007168                                    receptor guanylyl cyclase signaling pathway     2/158  10/18903
+GO:2000347 GO:2000347                                positive regulation of hepatocyte proliferation     2/158  10/18903
+GO:1902904 GO:1902904                       negative regulation of supramolecular fiber organization     6/158 169/18903
+GO:0048588 GO:0048588                                                      developmental cell growth     7/158 229/18903
+GO:0050920 GO:0050920                                                       regulation of chemotaxis     7/158 230/18903
+GO:0032232 GO:0032232                          negative regulation of actin filament bundle assembly     3/158  36/18903
+GO:0048846 GO:0048846                                       axon extension involved in axon guidance     3/158  37/18903
+GO:1902284 GO:1902284             neuron projection extension involved in neuron projection guidance     3/158  37/18903
+GO:0048675 GO:0048675                                                                 axon extension     5/158 122/18903
+GO:0006182 GO:0006182                                                      cGMP biosynthetic process     2/158  11/18903
+GO:0090179 GO:0090179                   planar cell polarity pathway involved in neural tube closure     2/158  11/18903
+GO:0010639 GO:0010639                                  negative regulation of organelle organization     9/158 366/18903
+GO:0070997 GO:0070997                                                                   neuron death     9/158 368/18903
+GO:0048511 GO:0048511                                                               rhythmic process     8/158 302/18903
+GO:0006285 GO:0006285                                        base-excision repair, AP site formation     2/158  12/18903
+GO:0070213 GO:0070213                                                  protein auto-ADP-ribosylation     2/158  12/18903
+GO:0090178 GO:0090178 regulation of establishment of planar polarity involved in neural tube closure     2/158  12/18903
+GO:0140289 GO:0140289                                                  protein mono-ADP-ribosylation     2/158  12/18903
+GO:0018105 GO:0018105                                                peptidyl-serine phosphorylation     8/158 313/18903
+GO:0090177 GO:0090177               establishment of planar polarity involved in neural tube closure     2/158  13/18903
+GO:0051402 GO:0051402                                                       neuron apoptotic process     7/158 255/18903
+GO:0031345 GO:0031345                            negative regulation of cell projection organization     6/158 194/18903
+GO:0032456 GO:0032456                                                            endocytic recycling     4/158  86/18903
+GO:0071526 GO:0071526                                            semaphorin-plexin signaling pathway     3/158  44/18903
+GO:0010752 GO:0010752                                          regulation of cGMP-mediated signaling     2/158  14/18903
+GO:0031115 GO:0031115                              negative regulation of microtubule polymerization     2/158  14/18903
+GO:0048864 GO:0048864                                                          stem cell development     4/158  89/18903
+GO:0033173 GO:0033173                                             calcineurin-NFAT signaling cascade     3/158  46/18903
+GO:2000345 GO:2000345                                         regulation of hepatocyte proliferation     2/158  15/18903
+GO:0018209 GO:0018209                                                   peptidyl-serine modification     8/158 332/18903
+GO:0060021 GO:0060021                                                      roof of mouth development     4/158  91/18903
+GO:0031032 GO:0031032                                              actomyosin structure organization     6/158 204/18903
+GO:0032008 GO:0032008                                           positive regulation of TOR signaling     3/158  48/18903
+GO:0050768 GO:0050768                                            negative regulation of neurogenesis     5/158 146/18903
+GO:0030516 GO:0030516                                                   regulation of axon extension     4/158  93/18903
+GO:0010820 GO:0010820                                       positive regulation of T cell chemotaxis     2/158  16/18903
+GO:0018146 GO:0018146                                           keratan sulfate biosynthetic process     2/158  16/18903
+GO:0042249 GO:0042249                       establishment of planar polarity of embryonic epithelium     2/158  16/18903
+GO:0046068 GO:0046068                                                         cGMP metabolic process     2/158  16/18903
+GO:2000404 GO:2000404                                                 regulation of T cell migration     3/158  49/18903
+GO:0042982 GO:0042982                                    amyloid precursor protein metabolic process     4/158  95/18903
+GO:0098876 GO:0098876                              vesicle-mediated transport to the plasma membrane     5/158 150/18903
+GO:0010819 GO:0010819                                                regulation of T cell chemotaxis     2/158  17/18903
+GO:0051961 GO:0051961                              negative regulation of nervous system development     5/158 151/18903
+GO:0022602 GO:0022602                                                        ovulation cycle process     3/158  51/18903
+GO:0097720 GO:0097720                                                 calcineurin-mediated signaling     3/158  51/18903
+GO:0110053 GO:0110053                                      regulation of actin filament organization     7/158 278/18903
+GO:0001558 GO:0001558                                                      regulation of cell growth     9/158 422/18903
+GO:0010939 GO:0010939                                              regulation of necrotic cell death     3/158  52/18903
+GO:0042339 GO:0042339                                              keratan sulfate metabolic process     2/158  18/18903
+GO:0060391 GO:0060391                        positive regulation of SMAD protein signal transduction     2/158  18/18903
+GO:0031113 GO:0031113                                       regulation of microtubule polymerization     3/158  54/18903
+GO:0043652 GO:0043652                                                   engulfment of apoptotic cell     2/158  19/18903
+GO:0060216 GO:0060216                                                         definitive hemopoiesis     2/158  19/18903
+GO:0034205 GO:0034205                                                         amyloid-beta formation     3/158  56/18903
+GO:0032956 GO:0032956                                  regulation of actin cytoskeleton organization     8/158 365/18903
+GO:0030002 GO:0030002                                                     cellular anion homeostasis     2/158  20/18903
+GO:0048008 GO:0048008                      platelet-derived growth factor receptor signaling pathway     3/158  58/18903
+GO:0048016 GO:0048016                                          inositol phosphate-mediated signaling     3/158  58/18903
+GO:0061387 GO:0061387                                            regulation of extent of cell growth     4/158 108/18903
+GO:0140131 GO:0140131                                   positive regulation of lymphocyte chemotaxis     2/158  21/18903
+GO:0030307 GO:0030307                                             positive regulation of cell growth     5/158 167/18903
+GO:0001755 GO:0001755                                                    neural crest cell migration     3/158  59/18903
+GO:0018107 GO:0018107                                             peptidyl-threonine phosphorylation     4/158 111/18903
+GO:0050767 GO:0050767                                                     regulation of neurogenesis     8/158 377/18903
+GO:0007015 GO:0007015                                                    actin filament organization     9/158 454/18903
+GO:0009190 GO:0009190                                         cyclic nucleotide biosynthetic process     2/158  22/18903
+GO:0052652 GO:0052652                                     cyclic purine nucleotide metabolic process     2/158  22/18903
+GO:0070886 GO:0070886                      positive regulation of calcineurin-NFAT signaling cascade     2/158  22/18903
+GO:0072574 GO:0072574                                                       hepatocyte proliferation     2/158  22/18903
+GO:0072575 GO:0072575                  epithelial cell proliferation involved in liver morphogenesis     2/158  22/18903
+GO:0106058 GO:0106058                          positive regulation of calcineurin-mediated signaling     2/158  22/18903
+GO:0090497 GO:0090497                                                     mesenchymal cell migration     3/158  61/18903
+GO:0010950 GO:0010950                                  positive regulation of endopeptidase activity     5/158 174/18903
+GO:0060070 GO:0060070                                                canonical Wnt signaling pathway     7/158 310/18903
+                 pvalue  p.adjust    qvalue                                                                             geneID
+GO:0010975 9.828227e-05 0.1863558 0.1773374 SEMA4C/SIPA1L1/CFLAR/DVL1/DGKG/NDRG4/KIAA0319/METRN/SEMA6B/NFATC4/PARP6/NRP1/PQBP1
+GO:0060560 1.538911e-04 0.1863558 0.1773374                          SEMA4C/FGF1/DVL1/KIF26B/KIAA0319/SEMA6B/PAK6/NRP1/SLC23A2
+GO:0050773 2.273556e-04 0.1863558 0.1773374                                           SIPA1L1/DGKG/KIAA0319/NFATC4/PARP6/PQBP1
+GO:0051494 4.809354e-04 0.1883451 0.1792304                                    RHPN1/DYRK1A/RHPN2/CDK5RAP2/HIP1R/CLIP3/TACSTD2
+GO:1901215 5.043010e-04 0.1883451 0.1792304                                PRKCG/TGFB3/IL27RA/NFATC4/NRP1/GFER/MAP3K12/SLC23A2
+GO:0030517 5.361593e-04 0.1883451 0.1792304                                                        SEMA4C/KIAA0319/SEMA6B/NRP1
+GO:0030574 5.361593e-04 0.1883451 0.1792304                                                             MMP25/MMP28/MMP24/MRC2
+GO:1990138 6.160935e-04 0.1891256 0.1799731                                      SEMA4C/DVL1/KIAA0319/SEMA6B/PAK6/NRP1/SLC23A2
+GO:0016358 8.707212e-04 0.1891256 0.1799731                                 SIPA1L1/DVL1/DGKG/KIAA0319/NFATC4/PARP6/NRP1/PQBP1
+GO:0010721 1.038943e-03 0.1891256 0.1799731                                    SEMA4C/KIAA0319/SEMA6B/NFATC4/NPR2/NRP1/TACSTD2
+GO:0051492 1.155513e-03 0.1891256 0.1799731                                                     RHPN1/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0048813 1.158675e-03 0.1891256 0.1799731                                               SIPA1L1/DVL1/NFATC4/PARP6/NRP1/PQBP1
+GO:0062009 1.293474e-03 0.1891256 0.1799731                                                                   MMP25/TGFB3/FZD2
+GO:0048843 1.446286e-03 0.1891256 0.1799731                                                                 SEMA4C/SEMA6B/NRP1
+GO:1902903 1.486205e-03 0.1891256 0.1799731                  RHPN1/DYRK1A/RHPN2/CDK5RAP2/TGFB3/HIP1R/RICTOR/CLIP3/NRP1/TACSTD2
+GO:1901214 1.681577e-03 0.1891256 0.1799731                          CASP2/PRKCG/TGFB3/IL27RA/NFATC4/NRP1/GFER/MAP3K12/SLC23A2
+GO:0110020 1.811070e-03 0.1891256 0.1799731                                                     RHPN1/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0043524 1.884827e-03 0.1891256 0.1799731                                             PRKCG/TGFB3/IL27RA/NFATC4/NRP1/MAP3K12
+GO:0050770 2.011613e-03 0.1891256 0.1799731                                          SEMA4C/SIPA1L1/KIAA0319/METRN/SEMA6B/NRP1
+GO:0032963 2.052194e-03 0.1891256 0.1799731                                                       MMP25/MMP28/MMP24/TGFB3/MRC2
+GO:0060562 2.065889e-03 0.1891256 0.1799731                             SEMA4C/FGF1/DVL1/KIF26B/NDRG4/NFATC4/NRP1/TACSTD2/FZD2
+GO:0032231 2.137541e-03 0.1891256 0.1799731                                                     RHPN1/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0050771 2.141024e-03 0.1891256 0.1799731                                                        SEMA4C/KIAA0319/SEMA6B/NRP1
+GO:0140058 2.168920e-03 0.1891256 0.1799731                                                                     DVL1/PAK6/NRP1
+GO:0030038 2.225450e-03 0.1891256 0.1799731                                                     RHPN1/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0043149 2.225450e-03 0.1891256 0.1799731                                                     RHPN1/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0048814 2.264518e-03 0.1891256 0.1799731                                                         SIPA1L1/NFATC4/PARP6/PQBP1
+GO:0051017 2.284436e-03 0.1891256 0.1799731                                               RHPN1/RHPN2/TGFB3/ESPNL/NRP1/TACSTD2
+GO:0043523 2.418534e-03 0.1891256 0.1799731                                       CASP2/PRKCG/TGFB3/IL27RA/NFATC4/NRP1/MAP3K12
+GO:0042987 2.526067e-03 0.1891256 0.1799731                                                           PSENEN/DYRK1A/ADAM17/SP1
+GO:0061572 2.584272e-03 0.1891256 0.1799731                                               RHPN1/RHPN2/TGFB3/ESPNL/NRP1/TACSTD2
+GO:0048841 2.600683e-03 0.1891256 0.1799731                                                                 SEMA4C/SEMA6B/NRP1
+GO:0051497 2.600683e-03 0.1891256 0.1799731                                                                RHPN1/RHPN2/TACSTD2
+GO:0050922 2.664309e-03 0.1891256 0.1799731                                                           SEMA4C/MMP28/SEMA6B/NRP1
+GO:0048640 2.809202e-03 0.1891256 0.1799731                                                 SEMA4C/KIAA0319/SEMA6B/MAPK11/NRP1
+GO:0016049 2.933073e-03 0.1891256 0.1799731            SEMA4C/KLHL22/DVL1/KIAA0319/SEMA6B/NPR1/ADAM17/PAK6/RICTOR/NRP1/SLC23A2
+GO:0007168 2.989543e-03 0.1891256 0.1799731                                                                          NPR1/NPR2
+GO:2000347 2.989543e-03 0.1891256 0.1799731                                                                         FGF1/CFLAR
+GO:1902904 2.999551e-03 0.1891256 0.1799731                                             RHPN1/DYRK1A/RHPN2/HIP1R/CLIP3/TACSTD2
+GO:0048588 3.179380e-03 0.1901218 0.1809212                                      SEMA4C/DVL1/KIAA0319/SEMA6B/PAK6/NRP1/SLC23A2
+GO:0050920 3.256682e-03 0.1901218 0.1809212                                          SEMA4C/FGF1/MMP28/SEMA6B/ADAM17/NRP1/WNK1
+GO:0032232 3.341702e-03 0.1901218 0.1809212                                                                RHPN1/RHPN2/TACSTD2
+GO:0048846 3.614472e-03 0.1901218 0.1809212                                                                 SEMA4C/SEMA6B/NRP1
+GO:1902284 3.614472e-03 0.1901218 0.1809212                                                                 SEMA4C/SEMA6B/NRP1
+GO:0048675 3.621807e-03 0.1901218 0.1809212                                                   SEMA4C/DVL1/KIAA0319/SEMA6B/NRP1
+GO:0006182 3.633886e-03 0.1901218 0.1809212                                                                          NPR1/NPR2
+GO:0090179 3.633886e-03 0.1901218 0.1809212                                                                          DVL1/FZD2
+GO:0010639 3.720078e-03 0.1905765 0.1813538                        RHPN1/KLHL22/DYRK1A/RHPN2/CDK5RAP2/HIP1R/CLIP3/TACSTD2/VAT1
+GO:0070997 3.854769e-03 0.1934465 0.1840849                          CASP2/PRKCG/TGFB3/IL27RA/NFATC4/NRP1/GFER/MAP3K12/SLC23A2
+GO:0048511 3.948090e-03 0.1941671 0.1847706                                       CASP2/TOP1/DYRK1A/PRKCG/TGFB3/NRIP1/SP1/NFYA
+GO:0006285 4.336811e-03 0.1974855 0.1879285                                                                        MUTYH/NEIL2
+GO:0070213 4.336811e-03 0.1974855 0.1879285                                                                       PARP10/PARP6
+GO:0090178 4.336811e-03 0.1974855 0.1879285                                                                          DVL1/FZD2
+GO:0140289 4.336811e-03 0.1974855 0.1879285                                                                       PARP10/PARP6
+GO:0018105 4.885652e-03 0.2184330 0.2078623                                  TOP1/DYRK1A/FNIP1/PRKCG/RICTOR/MAP3K12/WNK1/HIPK1
+GO:0090177 5.097306e-03 0.2238264 0.2129946                                                                          DVL1/FZD2
+GO:0051402 5.698706e-03 0.2345716 0.2232198                                       CASP2/PRKCG/TGFB3/IL27RA/NFATC4/NRP1/MAP3K12
+GO:0031345 5.862337e-03 0.2345716 0.2232198                                         SEMA4C/KIAA0319/SEMA6B/NFATC4/NRP1/TACSTD2
+GO:0032456 5.867665e-03 0.2345716 0.2232198                                                            RAB8A/VTI1A/NDRG4/ARL4C
+GO:0071526 5.904083e-03 0.2345716 0.2232198                                                                 SEMA4C/SEMA6B/NRP1
+GO:0010752 5.914372e-03 0.2345716 0.2232198                                                                          NPR1/NPR2
+GO:0031115 5.914372e-03 0.2345716 0.2232198                                                                       DYRK1A/CLIP3
+GO:0048864 6.618137e-03 0.2529256 0.2406856                                                            SEMA4C/SEMA6B/NRP1/MSI2
+GO:0033173 6.685464e-03 0.2529256 0.2406856                                                                NFATC4/LMCD1/CAMTA1
+GO:2000345 6.787022e-03 0.2529256 0.2406856                                                                         FGF1/CFLAR
+GO:0018209 6.896971e-03 0.2529256 0.2406856                                  TOP1/DYRK1A/FNIP1/PRKCG/RICTOR/MAP3K12/WNK1/HIPK1
+GO:0060021 7.152244e-03 0.2529256 0.2406856                                                             DHRS3/MMP25/TGFB3/FZD2
+GO:0031032 7.436621e-03 0.2529256 0.2406856                                               RHPN1/CFLAR/RHPN2/TGFB3/NRP1/TACSTD2
+GO:0032008 7.525517e-03 0.2529256 0.2406856                                                                KLHL22/FNIP1/RICTOR
+GO:0050768 7.688806e-03 0.2529256 0.2406856                                                 SEMA4C/KIAA0319/SEMA6B/NFATC4/NRP1
+GO:0030516 7.714075e-03 0.2529256 0.2406856                                                        SEMA4C/KIAA0319/SEMA6B/NRP1
+GO:0010820 7.714281e-03 0.2529256 0.2406856                                                                        ADAM17/WNK1
+GO:0018146 7.714281e-03 0.2529256 0.2406856                                                                     B3GNT7/B4GALT4
+GO:0042249 7.714281e-03 0.2529256 0.2406856                                                                          DVL1/FZD2
+GO:0046068 7.714281e-03 0.2529256 0.2406856                                                                          NPR1/NPR2
+GO:2000404 7.967858e-03 0.2578021 0.2453262                                                                 ADAM17/IL27RA/WNK1
+GO:0042982 8.304203e-03 0.2651953 0.2523615                                                           PSENEN/DYRK1A/ADAM17/SP1
+GO:0098876 8.587948e-03 0.2657744 0.2529126                                                     RAB8A/VTI1A/NDRG4/ARL4C/OSBPL5
+GO:0010819 8.695189e-03 0.2657744 0.2529126                                                                        ADAM17/WNK1
+GO:0051961 8.823627e-03 0.2657744 0.2529126                                                 SEMA4C/KIAA0319/SEMA6B/NFATC4/NRP1
+GO:0022602 8.897745e-03 0.2657744 0.2529126                                                                  CASP2/TGFB3/NRIP1
+GO:0097720 8.897745e-03 0.2657744 0.2529126                                                                NFATC4/LMCD1/CAMTA1
+GO:0110053 8.970831e-03 0.2657744 0.2529126                                        RHPN1/RHPN2/TGFB3/HIP1R/RICTOR/NRP1/TACSTD2
+GO:0001558 9.174666e-03 0.2685774 0.2555800                      SEMA4C/KLHL22/KIAA0319/SEMA6B/NPR1/ADAM17/RICTOR/NRP1/SLC23A2
+GO:0010939 9.385501e-03 0.2715170 0.2583773                                                                 CFLAR/MUTYH/SLC6A6
+GO:0042339 9.728794e-03 0.2749782 0.2616710                                                                     B3GNT7/B4GALT4
+GO:0060391 9.728794e-03 0.2749782 0.2616710                                                                     KIAA0319/TGFB3
+GO:0031113 1.040712e-02 0.2908081 0.2767348                                                              DYRK1A/CDK5RAP2/CLIP3
+GO:0043652 1.081416e-02 0.2954669 0.2811682                                                                       XKR6/RHOBTB2
+GO:0060216 1.081416e-02 0.2954669 0.2811682                                                                      ZFP36L2/HIPK1
+GO:0034205 1.149080e-02 0.3105041 0.2954777                                                                  PSENEN/DYRK1A/SP1
+GO:0032956 1.180387e-02 0.3154970 0.3002289                                RHPN1/RHPN2/TGFB3/HIP1R/RICTOR/NRP1/TACSTD2/RHOBTB2
+GO:0030002 1.195036e-02 0.3159778 0.3006865                                                                       SLC34A1/WNK1
+GO:0048008 1.263715e-02 0.3265578 0.3107545                                                                   NDRG4/HIP1R/NRP1
+GO:0048016 1.263715e-02 0.3265578 0.3107545                                                                NFATC4/LMCD1/CAMTA1
+GO:0061387 1.286639e-02 0.3265578 0.3107545                                                        SEMA4C/KIAA0319/SEMA6B/NRP1
+GO:0140131 1.313648e-02 0.3265578 0.3107545                                                                        ADAM17/WNK1
+GO:0030307 1.322427e-02 0.3265578 0.3107545                                                  KLHL22/ADAM17/RICTOR/NRP1/SLC23A2
+GO:0001755 1.323399e-02 0.3265578 0.3107545                                                                 SEMA4C/SEMA6B/NRP1
+GO:0018107 1.410672e-02 0.3265578 0.3107545                                                          DYRK1A/MAP3K12/WNK1/HIPK1
+GO:0050767 1.410855e-02 0.3265578 0.3107545                                SEMA4C/KIAA0319/METRN/HES6/SEMA6B/NFATC4/PARP6/NRP1
+GO:0007015 1.425592e-02 0.3265578 0.3107545                          RHPN1/RHPN2/TGFB3/HIP1R/RICTOR/ESPNL/NRP1/TACSTD2/RHOBTB2
+GO:0009190 1.437161e-02 0.3265578 0.3107545                                                                          NPR1/NPR2
+GO:0052652 1.437161e-02 0.3265578 0.3107545                                                                          NPR1/NPR2
+GO:0070886 1.437161e-02 0.3265578 0.3107545                                                                       LMCD1/CAMTA1
+GO:0072574 1.437161e-02 0.3265578 0.3107545                                                                         FGF1/CFLAR
+GO:0072575 1.437161e-02 0.3265578 0.3107545                                                                         FGF1/CFLAR
+GO:0106058 1.437161e-02 0.3265578 0.3107545                                                                       LMCD1/CAMTA1
+GO:0090497 1.447532e-02 0.3265578 0.3107545                                                                 SEMA4C/SEMA6B/NRP1
+GO:0010950 1.554602e-02 0.3437083 0.3270750                                                   CASP2/PSENEN/CFLAR/HIP1R/AKIRIN2
+GO:0060070 1.557842e-02 0.3437083 0.3270750                                                 LZTS2/TLE1/DVL1/JRK/WNK1/FZD2/TLE4
+           Count
+GO:0010975    13
+GO:0060560     9
+GO:0050773     6
+GO:0051494     7
+GO:1901215     8
+GO:0030517     4
+GO:0030574     4
+GO:1990138     7
+GO:0016358     8
+GO:0010721     7
+GO:0051492     5
+GO:0048813     6
+GO:0062009     3
+GO:0048843     3
+GO:1902903    10
+GO:1901214     9
+GO:0110020     5
+GO:0043524     6
+GO:0050770     6
+GO:0032963     5
+GO:0060562     9
+GO:0032231     5
+GO:0050771     4
+GO:0140058     3
+GO:0030038     5
+GO:0043149     5
+GO:0048814     4
+GO:0051017     6
+GO:0043523     7
+GO:0042987     4
+GO:0061572     6
+GO:0048841     3
+GO:0051497     3
+GO:0050922     4
+GO:0048640     5
+GO:0016049    11
+GO:0007168     2
+GO:2000347     2
+GO:1902904     6
+GO:0048588     7
+GO:0050920     7
+GO:0032232     3
+GO:0048846     3
+GO:1902284     3
+GO:0048675     5
+GO:0006182     2
+GO:0090179     2
+GO:0010639     9
+GO:0070997     9
+GO:0048511     8
+GO:0006285     2
+GO:0070213     2
+GO:0090178     2
+GO:0140289     2
+GO:0018105     8
+GO:0090177     2
+GO:0051402     7
+GO:0031345     6
+GO:0032456     4
+GO:0071526     3
+GO:0010752     2
+GO:0031115     2
+GO:0048864     4
+GO:0033173     3
+GO:2000345     2
+GO:0018209     8
+GO:0060021     4
+GO:0031032     6
+GO:0032008     3
+GO:0050768     5
+GO:0030516     4
+GO:0010820     2
+GO:0018146     2
+GO:0042249     2
+GO:0046068     2
+GO:2000404     3
+GO:0042982     4
+GO:0098876     5
+GO:0010819     2
+GO:0051961     5
+GO:0022602     3
+GO:0097720     3
+GO:0110053     7
+GO:0001558     9
+GO:0010939     3
+GO:0042339     2
+GO:0060391     2
+GO:0031113     3
+GO:0043652     2
+GO:0060216     2
+GO:0034205     3
+GO:0032956     8
+GO:0030002     2
+GO:0048008     3
+GO:0048016     3
+GO:0061387     4
+GO:0140131     2
+GO:0030307     5
+GO:0001755     3
+GO:0018107     4
+GO:0050767     8
+GO:0007015     9
+GO:0009190     2
+GO:0052652     2
+GO:0070886     2
+GO:0072574     2
+GO:0072575     2
+GO:0106058     2
+GO:0090497     3
+GO:0010950     5
+GO:0060070     7
+ [ reached 'max' / getOption("max.print") -- omitted 2348 rows ]
